@@ -22,12 +22,7 @@ const Footer = () => {
                   <li className="menuItem">FAQ</li>
               </ul>
               <div className="infoText">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                  ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  Duis aute irure dolor in reprehenderit in voluptate velit
-                  esse cillum dolore eu fugiat nulla pariatur.
+                  Welcome to YASHRAJFILMS, your ultimate destination for every detail about movies and TV shows. Whether you are looking for the latest releases, the classics, the top-rated or the most popular, we have it all for you! Browse through our extensive collection of genres, ratings, reviews and trailers to find your next binge-worthy show or your next favorite movie. YASHRAJFILMS is more than just a website, it is a revolutionary one-stop for all movie lovers who share their passion and opinions with each other. Join us today and discover the magic of cinema with YASHRAJFILMS.
               </div>
               <div className="socialIcons">
                   <span className="icon">
